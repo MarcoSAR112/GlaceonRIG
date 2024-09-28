@@ -13,12 +13,3 @@ Model by Game Freak
 | Switch Shiny | Head Follow | Eyelids Control |
 |--------------|-------------|-----------------|
 | <video src="https://github.com/user-attachments/assets/4312d320-4b94-4e09-a16f-5a11a571cd56"> | <video src="https://github.com/user-attachments/assets/0b8afe62-a23b-478b-ad2f-6e5b2463f231">| <video src="https://github.com/user-attachments/assets/202840b8-7931-43dc-abb4-370bda660d5d"> |
-
-
-
-
-
-  
-
-
-
